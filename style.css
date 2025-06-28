@@ -1,0 +1,18 @@
+
+main{
+    background-color: olivedrab;
+}
+table{
+    background-color: greenyellow;
+margin: auto;
+}
+th{
+    background-color: olive;
+}
+td{
+    border: 2px solid palegreen;
+}
+footer{
+    height: 23px;
+    background-color: yellowgreen;
+}
